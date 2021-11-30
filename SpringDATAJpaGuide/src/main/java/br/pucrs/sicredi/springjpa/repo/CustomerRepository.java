@@ -1,4 +1,4 @@
-package br.pucrs.sicredi.springjpa;
+package br.pucrs.sicredi.springjpa.repo;
 
 import java.util.List;
 
